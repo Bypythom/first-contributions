@@ -7,7 +7,7 @@
 
 Dit project heeft als doel het versimpelen en het begeleiden van beginners in het maken van hun eerste bijdragen. Als je op het punt staat om je eerste bijdragen te maken, volg dan onderstaande stappen.
 
-_Als je je niet comfortable voelt met de command line, vind je [hier handleidingen voor het gebruik van GUI tools.](#handleidingen-voor-andere-tools)_
+_Als je je niet comfortabel voelt met de command line, vind je [hier handleidingen voor het gebruik van GUI tools.](#handleidingen-voor-andere-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork deze repository" />
 
